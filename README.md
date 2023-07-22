@@ -1,8 +1,8 @@
 # Login Form Project with PHP, MySQL, and SweetAlert 🚀
 
-![Demo](preview.PNG)
-
 The Login Form Project is a web application built using PHP and MySQL for user authentication and the SweetAlert JavaScript plugin for interactive and stylish alerts. It allows users to sign in securely and gain access to specific content or functionalities based on their credentials.
+
+![Demo](preview.PNG)
 
 ## ⭐️ Key Features
 
